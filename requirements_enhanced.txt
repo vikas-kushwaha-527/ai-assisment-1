@@ -1,0 +1,12 @@
+streamlit
+openai
+python-dotenv
+PyPDF2
+huggingface-hub
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+pinecone
+sentence-transformers
+tiktoken
