@@ -1,0 +1,8 @@
+streamlit
+openai
+python-dotenv
+huggingface-hub
+pinecone-client
+sentence-transformers
+scikit-learn
+numpy
